@@ -1,6 +1,6 @@
 # Harpa Cristã por Estrofes
 
-Este repositório contém todos os hinos da Harpa Cristã organizados por estrofes, disponíveis em dois formatos para facilitar o uso.
+Este repositório contém todos os hinos da Harpa Cristã organizados por frasese estrofes, disponíveis em dois formatos para facilitar o uso.
 
 ## 📁 Arquivos Disponíveis
 
