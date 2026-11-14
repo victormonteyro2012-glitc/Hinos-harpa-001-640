@@ -11,4 +11,4 @@ Este repositório contém todos os hinos da Harpa Cristã organizados por frases
 Facilitar o uso e a integração das letras da Harpa Cristã para desenvolvedores, igrejas e estudos pessoais.
 
 ## 🚀 Como usar
-Basta baixar os arquivos diretamente ou clonar o repositório em sua máquina.
+Basta baixar os arquivos diretamente ou clonar o repositório em sua máquina contendo 2 formatos de organização.
